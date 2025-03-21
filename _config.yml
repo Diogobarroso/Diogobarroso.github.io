@@ -9,6 +9,8 @@ repository          : diogobarroso/diogobarroso.github.io      # Change to <your
 remote_theme        : diogobarroso/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+domain: diogobarroso.dev
+url: https://diogobarroso.dev
 
 ### Plugins ###
 plugins:
