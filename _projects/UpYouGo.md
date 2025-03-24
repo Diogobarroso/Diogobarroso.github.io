@@ -1,7 +1,7 @@
 ---
 name: Up You Go
 tools: [Unity, C#, MediaPipe]
-image: https>//diogobarroso.dev/assets/UpYouGo.jpg
+image: https://diogobarroso.dev/assets/UpYouGo.jpg
 description: The first game I designed from scratch at Stasism
 ---
 
