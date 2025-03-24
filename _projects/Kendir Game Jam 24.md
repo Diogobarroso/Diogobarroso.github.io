@@ -1,7 +1,7 @@
 ---
 name: It's Not Pelican't, It's PeliCAN!
 tools: [Unity, C#]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://diogobarroso.dev/assets/pelican.png
 description: A game made for Kendir Game Jam '24.
 ---
 
@@ -13,12 +13,6 @@ It's not Pelican't, it's PeliCAN is a local co-op game for up to 6 players where
 
 For this Jam, I took the roles of programming and doing asset integration. I made the controls with Unity's New Input System, a multiplayer friendly camera (zooming and moving to include everyone), game loss conditions, UI, fire "waves", made players easier to distinguish by color coding the characters and auto aim. These final two tasks were made to show that accessibility can actually be easy (and quick to make, even in a Game Jam setting) and is a part of quality of life features.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
 <p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://migueldiasbrito.itch.io/its-not-pelicant-its-pelican" text="Play it on itch.io" %}
 </p>
