@@ -1,3 +1,22 @@
+- title: Co-Founder, Game Developer (Part-time)
+  company: WoolBerry Games
+  technology: Unity, C#
+  from: April 2025
+  to: Present
+  description: Designing and developing game prototypes to test viability in order to finance the first product and create the studio.
+  bulletPoints:
+               - Building and managing a home server with Docker containers for infrastructure such as repositories and documentation.
+
+- title: Workshop Leader (part-time)
+  company: TUMO Porto
+  technology: Unity, C#
+  from: September 2025
+  to: Present
+  description: Teaching Game Development workshops to students aged 12-18, guiding them along their first projects in the field.
+  bulletPoints:
+               - Correction of self-learning activities made by the students.
+               - Creation and development of learning hub activities.
+
 - title: Game Developer
   company: Stasism
   technology: Unity, C#, MySQL
