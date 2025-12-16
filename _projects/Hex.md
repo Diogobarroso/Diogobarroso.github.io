@@ -7,7 +7,7 @@ description: My first game at Stasism
 
 # Hex
 
-<video controls preload="none" width="100%" poster="https://cloud.diogobarroso.dev/s/zRbNpkKQZDst5cW/preview">
+<video controls preload="none" width="80%" poster="https://cloud.diogobarroso.dev/s/zRbNpkKQZDst5cW/preview">
     <source src="https://cloud.diogobarroso.dev/s/zRbNpkKQZDst5cW/download" type="video/mp4">
 </video>
 
